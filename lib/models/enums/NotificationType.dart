@@ -1,0 +1,5 @@
+enum NotificationType {
+  NEW_POST,
+  NEW_SCHOOL_REQUEST,
+  NEW_TEACHER_REQUEST,
+}
